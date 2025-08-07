@@ -12,5 +12,5 @@
 - iOS 17+
 
 ## Credits
-Built while following Stanford’s iOS class taught by Paul Hegarty.
+Built while following Stanford’s iOS class taught by Paul Hegarty. https://www.youtube.com/@StanfordCS193p
 
